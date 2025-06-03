@@ -5,7 +5,7 @@ An aspiring AWS Data Engineer with a strong foundation in cloud technologies and
 
 
 
- Skills:
+# Skills:
      •	Programming / Scripting : Python, Pyspark, SQL.
      •	Databases : Oracle, MySQL, SQL server 
      •	AWS Services : Glue, EMR,EC2, Redshift, Athena, RDS, S3,SQS, SNS.
