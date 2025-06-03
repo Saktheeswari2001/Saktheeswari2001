@@ -20,7 +20,7 @@ An aspiring AWS Data Engineer with a strong foundation in cloud technologies and
 
  # Project:
 
- Online Movie Rating Pipeline:
+ Online Movie Rating Pipeline:  
                I am building an ETL pipeline for a movie review platform using PySpark on Databricks. The platform collects user ratings and comments on movies. Raw data is extracted from CSV and JSON files stored in cloud storage . Using PySpark, I clean and transform the data to calculate the average rating per movie, identify top reviewers based on review count or rating quality, and handle missing or inconsistent fields. Finally, the cleaned data is partitioned by genre and stored in Parquet format for efficient querying and analytics on Databricks.
 
 
