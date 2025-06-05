@@ -28,6 +28,11 @@ Online Movie Rating Pipeline:
 
 
 
-  Banking Transaction  ETL:  
-                   I am analyzing banking transactions to detect possible fraud patterns and understand customer spending trends. Using PySpark on Databricks, I build an ETL pipeline that ingests raw  data extracted from CSV and JSON. The pipeline performs data cleaning and validation, filters out corrupted or duplicate records, and tags high-value transactions based on dynamic thresholds. It then aggregates and summarizes total spend per customer, enabling insights into spending behavior. The processed data is stored partitioned by transaction type for efficient querying and reporting in Databricks.
+  Banking Transaction  ETL: 
+•	I am analyzing banking transactions to detect possible fraud patterns and understand customer spending trends.  
+•	Using PySpark on Databricks, I build an ETL pipeline that ingests raw data extracted from CSV and JSON.  
+•	The pipeline performs data cleaning and validation, filters out corrupted or duplicate records, and tags high-value transactions based on dynamic thresholds.   
+•	It then aggregates and summarizes total spend per customer, enabling insights into spending behavior.   
+•	The processed data is stored partitioned by transaction type for efficient querying and reporting in Databricks.
+
 
